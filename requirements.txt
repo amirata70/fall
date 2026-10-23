@@ -1,4 +1,6 @@
 flask
-telebot
+pyTelegramBotAPI
 openai
 requests
+python-dotenv
+gunicorn
